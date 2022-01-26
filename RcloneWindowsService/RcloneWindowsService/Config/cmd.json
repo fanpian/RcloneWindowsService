@@ -1,0 +1,12 @@
+{
+  "Starting": [
+    {
+      "FileName": "\"C:\\Program Files\\rclone\\rclone.exe\" mount tv:/ Z: --vfs-cache-mode full",
+      "Arguments": "",
+      "CmdText": "",
+      "HangUp": true
+    }
+  ],
+  "Runing": [],
+  "Stoping": []
+}
